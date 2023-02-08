@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "A8gmSt240PGZYaJislB/FpquIwGhzDjgGeP4t6/MPCFYtxozrE7+IOkFDtJt13FXxQJUPym11Dir9E3S8nrcfg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\SmsPanel.ClientSampleCode\\SampleSmsIr.WinForm.Panel\\SampleSmsIr.WinForm.Panel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IPE\\.nuget\\packages\\ipe.smsir\\1.0.5\\ipe.smsir.1.0.5.nupkg.sha512",
+    "C:\\Users\\IPE\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\IPE\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\IPE\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\IPE\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\IPE\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\IPE\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\IPE\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
