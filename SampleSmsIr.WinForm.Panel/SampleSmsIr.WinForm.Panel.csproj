@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IPE.SmsIr" Version="1.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SampleSmsIr.Dll.Tools\SampleSmsIr.Dll.Tools.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="SampleSmsIr.Report\FrmGetArchivedReceives.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SampleSmsIr.Report\FrmGetLiveReceive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SampleSmsIr.Report\FrmGetArchivedReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SampleSmsIr.Report\FrmGetSendPacks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SampleSmsIr.Setting\FrmGetCredit - Copy.Designer.cs">
+      <DependentUpon>FrmGetCredit.Designer.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SampleSmsIr.Report\FrmGetLiveReceive - Copy %282%29.resx">
+      <DependentUpon>FrmGetLiveReceive.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SampleSmsIr.Report\FrmGetLiveReceive - Copy - Copy.resx">
+      <DependentUpon>FrmGetLiveReceive - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SampleSmsIr.Report\FrmGetLiveReceive - Copy.resx">
+      <DependentUpon>FrmGetLiveReceive.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SampleSmsIr.Setting\FrmGetCredit - Copy.resx">
+      <DependentUpon>FrmGetCredit.resx</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

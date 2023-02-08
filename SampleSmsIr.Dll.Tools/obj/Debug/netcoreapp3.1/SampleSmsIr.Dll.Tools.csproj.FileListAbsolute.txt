@@ -1,0 +1,10 @@
+E:\SampleSmsIr.WinForm\SampleSmsIr.Dll.Tools\bin\Debug\netcoreapp3.1\SampleSmsIr.Dll.Tools.deps.json
+E:\SampleSmsIr.WinForm\SampleSmsIr.Dll.Tools\bin\Debug\netcoreapp3.1\SampleSmsIr.Dll.Tools.dll
+E:\SampleSmsIr.WinForm\SampleSmsIr.Dll.Tools\bin\Debug\netcoreapp3.1\SampleSmsIr.Dll.Tools.pdb
+E:\SampleSmsIr.WinForm\SampleSmsIr.Dll.Tools\obj\Debug\netcoreapp3.1\SampleSmsIr.Dll.Tools.csproj.AssemblyReference.cache
+E:\SampleSmsIr.WinForm\SampleSmsIr.Dll.Tools\obj\Debug\netcoreapp3.1\SampleSmsIr.Dll.Tools.GeneratedMSBuildEditorConfig.editorconfig
+E:\SampleSmsIr.WinForm\SampleSmsIr.Dll.Tools\obj\Debug\netcoreapp3.1\SampleSmsIr.Dll.Tools.AssemblyInfoInputs.cache
+E:\SampleSmsIr.WinForm\SampleSmsIr.Dll.Tools\obj\Debug\netcoreapp3.1\SampleSmsIr.Dll.Tools.AssemblyInfo.cs
+E:\SampleSmsIr.WinForm\SampleSmsIr.Dll.Tools\obj\Debug\netcoreapp3.1\SampleSmsIr.Dll.Tools.csproj.CoreCompileInputs.cache
+E:\SampleSmsIr.WinForm\SampleSmsIr.Dll.Tools\obj\Debug\netcoreapp3.1\SampleSmsIr.Dll.Tools.dll
+E:\SampleSmsIr.WinForm\SampleSmsIr.Dll.Tools\obj\Debug\netcoreapp3.1\SampleSmsIr.Dll.Tools.pdb
